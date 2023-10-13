@@ -1,11 +1,11 @@
-CREATE TABLE Employee2 --¸ê®Æªí:­û¤u
+CREATE TABLE Employee2 --å“¡å·¥è¡¨
 (Em_id CHAR(5),
 Em_name NVARCHAR(4) NOT NULL,
 sex CHAR(4) NULL,
 PRIMARY KEY(Em_id)
 )
 
-create table performance --¦ÒÁZ
+create table performance --è€ƒç¸¾
 (
 Em_id char(5),
 Q1 int,
