@@ -1,2 +1,2 @@
 ALTER TABLE Employee
-ADD �ʧO NCHAR(1)Default'�k'
+ADD 性別 NCHAR(1)Default'男'
