@@ -1,3 +1,3 @@
-SELECT S_id,Count(*) AS ¾P°â²£«~ºØÃş¼Æ¶q
+SELECT S_id,Count(*) AS éŠ·å”®ç”¢å“ç¨®é¡æ•¸é‡
 FROM Sales
 GROUP BY S_id
