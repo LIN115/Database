@@ -1,5 +1,5 @@
-SELECT P_id,Count(*) AS ╛P░тн√дu╝╞,
-AVG(Quan) AS ензб╝╞╢q
+SELECT P_id,Count(*) AS щК╖хФохУбх╖ецХ╕,
+AVG(Quan) AS х╣│хЭЗцХ╕щЗП
 FROM Sales
 GROUP BY P_id
 ORDER BY P_id
