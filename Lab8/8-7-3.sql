@@ -1,3 +1,3 @@
-SELECT S_id,AVG(Quan)¥­§¡¼Æ¶q
+SELECT S_id,AVG(Quan)å¹³å‡æ•¸é‡
 FROM Sales
 GROUP BY S_id
