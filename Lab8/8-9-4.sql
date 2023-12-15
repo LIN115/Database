@@ -1,5 +1,5 @@
-SELECT P_id,Count(*) AS ¾P°â­û¤u¼Æ,
-MAX(Quan) AS ³Ì°ª¼Æ¶q
+SELECT P_id,Count(*) AS éŠ·å”®å“¡å·¥æ•¸,
+MAX(Quan) AS æœ€é«˜æ•¸é‡
 FROM Sales
 GROUP BY P_id
 ORDER BY P_id
