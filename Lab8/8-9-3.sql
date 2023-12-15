@@ -1,4 +1,4 @@
-SELECT P_id,Count(*) AS ¾P°â­û¤u¼Æ
+SELECT P_id,Count(*) AS éŠ·å”®å“¡å·¥æ•¸
 FROM Sales
 GROUP BY P_id
 ORDER BY P_id DESC
