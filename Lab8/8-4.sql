@@ -1,0 +1,3 @@
+SELECT S_id,Quan 
+FROM Sales
+WHERE Quan IS NOT NULL
