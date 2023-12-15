@@ -1,2 +1,2 @@
-SELECT Count(*)AS ¾P°âµ§¼Æ
+SELECT Count(*)AS éŠ·å”®ç­†æ•¸
 FROM Employee
