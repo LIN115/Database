@@ -1,4 +1,4 @@
-SELECT S_id,AVG(Quan) AS ¥­§¡¼Æ¶q
+SELECT S_id,AVG(Quan) AS å¹³å‡æ•¸é‡
 FROM Sales
 GROUP BY S_id
 HAVING AVG (Quan)>=70
